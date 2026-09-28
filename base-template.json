@@ -1,0 +1,26 @@
+{
+  "id": "base_001",
+  "friendlyName": "",
+  "manufacturer": "",
+  "model": "",
+  "showroomLocation": "",
+  "bluetooth": {
+    "advertisedName": "",
+    "serviceUuids": [],
+    "knownIdentifiers": []
+  },
+  "capabilities": {
+    "head": false,
+    "feet": false,
+    "lumbar": false,
+    "massage": false,
+    "audio": false,
+    "lighting": false,
+    "flat": false,
+    "zeroGravity": false,
+    "memoryPresets": false
+  },
+  "protocolProfile": null,
+  "notes": "",
+  "enabled": true
+}
